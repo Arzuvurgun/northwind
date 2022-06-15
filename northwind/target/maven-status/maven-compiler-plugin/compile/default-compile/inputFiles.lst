@@ -1,0 +1,6 @@
+/Users/emresahin/eclipse-workspace/northwind/src/main/java/kodlamaio/northwind/business/abstracts/ProductService.java
+/Users/emresahin/eclipse-workspace/northwind/src/main/java/kodlamaio/northwind/business/concrates/ProductManager.java
+/Users/emresahin/eclipse-workspace/northwind/src/main/java/kodlamaio/northwind/entities/concrates/Product.java
+/Users/emresahin/eclipse-workspace/northwind/src/main/java/kodlamaio/northwind/NorthwindApplication.java
+/Users/emresahin/eclipse-workspace/northwind/src/main/java/kodlamaio/northwind/dataAccess/abstracts/ProductDao.java
+/Users/emresahin/eclipse-workspace/northwind/src/main/java/kodlamaio/northwind/api/controllers/ProductsController.java
